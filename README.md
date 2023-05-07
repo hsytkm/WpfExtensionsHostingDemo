@@ -1,6 +1,6 @@
 Issue登録用の再現リポ。
 
-
+[Publish fails · Issue #3 · nuitsjp/Wpf.Extensions.Hosting](https://github.com/nuitsjp/Wpf.Extensions.Hosting/issues/3)
 
 ## Introduction
 
@@ -15,13 +15,13 @@ Build succeeds, but publish fails.
 ## Steps to reproduce
 
 1. Create a new WPF project in .NET 7.
-2. Follow the `Getting Started` instructions.
+2. Follow the [Getting Started](https://github.com/nuitsjp/Wpf.Extensions.Hosting#getting-started) instructions.
 3. Build -> Succeed
 4. Publish -> Failed
 
 Below is the reproduced repository.
 
-
+https://github.com/hsytkm/WpfExtensionsHostingDemo
 
 ## Expected behavior
 
